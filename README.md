@@ -1,4 +1,4 @@
-### Hey perverd :) 
+### Hey pervert :) 
 
 - Hack Stack: SQLite (Turso), Fly.io, Svelte 5, Hono, Firefox Browser
 - Topics of Interest: Durable Execution, P2P, Automation, AI, Playground, REPL UI
