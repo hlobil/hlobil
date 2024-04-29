@@ -1,10 +1,14 @@
 ### Hey pervert :) 
 
 - Hack Stack: SQLite (Turso), Fly.io, Svelte 5, Hono, Firefox Browser
-- Topics of Interest: Durable Execution, P2P, Automation, AI, Playground, REPL UI
+- Topics of Interest: Durable Execution, P2P, Automation, AI, Playground, REPL UI, Bookmarks
 - Work: Staff Engineer in Core Services
 - First Computer: Commodore 64
-- Learning: Search and Ranking 
+- Learning: Search and Ranking
+
+- Inspired by these amazing tools
+  - https://tools.latitude.so/
+  - https://www.val.town/
 
 
 <!--
